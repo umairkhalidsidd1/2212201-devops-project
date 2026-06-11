@@ -3,7 +3,7 @@
 > **Student:** Umair Khalid Siddique
 > **Registration No:** 2212201
 > **Course:** DevOps Fundamentals
-> **Live URL:** http://YOUR_EC2_IP:8000
+> **Live URL:** http://54.166.160.222:8000
 
 ---
 
@@ -33,7 +33,7 @@ GitHub Push
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/YOUR_USERNAME/2212201-devops-project
+git clone https://github.com/umairkhalidsidd1/2212201-devops-project
 cd 2212201-devops-project
 
 # 2. Create your .env file
@@ -72,7 +72,7 @@ sudo apt update && sudo apt install -y docker.io docker-compose-plugin
 sudo usermod -aG docker ubuntu
 
 # Clone and run
-git clone https://github.com/YOUR_USERNAME/2212201-devops-project ~/devops-project
+git clone https://github.com/umairkhalidsidd1/2212201-devops-project ~/devops-project
 cd ~/devops-project
 cp .env.example .env   # Edit with production values
 docker compose -f docker-compose.prod.yml up -d --build
