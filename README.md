@@ -3,7 +3,7 @@
 > **Student:** Umair Khalid Siddique
 > **Registration No:** 2212201
 > **Course:** DevOps Fundamentals
-> **Live URL:** http://54.166.160.222:8000
+> **Live URL:** http://54.221.3.158:8000
 
 ---
 
